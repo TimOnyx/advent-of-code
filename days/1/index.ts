@@ -2,7 +2,7 @@
 const fs = require('fs');
 
 let content: string = '';
-const readFile = (next: Function) => {
+const readFile2 = (next: Function) => {
   fs.readFile('days/1/input.txt', 'utf8', function(err: unknown, data: string) {
     if (err) throw err;
     content = data;
@@ -10,7 +10,7 @@ const readFile = (next: Function) => {
   }); 
 }
 
-const processFile = () => {
+const processFile2 = () => {
   const inputByElf = splitElves(content);
   const elfInventories = generateElfEnventories(inputByElf);
   // PT 1 answer
@@ -90,4 +90,4 @@ const getRichElves = (elves: Elf[], amount: number): Elf[] => {
   return richBois;
 }
 
-readFile(processFile);
+readFile2(processFile2);

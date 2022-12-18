@@ -104,3 +104,7 @@ dist
 .tern-port
 
 build
+
+temp.txt
+test.ts.not
+.DS_Store

@@ -1,0 +1,743 @@
+[
+    {
+        "name": "dbnsfp",
+        "size": 308232
+    },
+    {
+        "name": "vvp",
+        "size": 179105
+    },
+    {
+        "name": "fmgsql",
+        "size": 487337
+    },
+    {
+        "name": "jmtrrrp",
+        "size": 565305
+    },
+    {
+        "name": "bphfqs",
+        "size": 110077
+    },
+    {
+        "name": "bqzfpr",
+        "size": 124394
+    },
+    {
+        "name": "qjnbg",
+        "size": 124394
+    },
+    {
+        "name": "hgvh",
+        "size": 124394
+    },
+    {
+        "name": "jtqdcmsz",
+        "size": 275597
+    },
+    {
+        "name": "dbnsfp",
+        "size": 554188
+    },
+    {
+        "name": "dwvlwfq",
+        "size": 32237
+    },
+    {
+        "name": "jrbz",
+        "size": 32237
+    },
+    {
+        "name": "pphv",
+        "size": 517605
+    },
+    {
+        "name": "cnbd",
+        "size": 549842
+    },
+    {
+        "name": "hwncj",
+        "size": 51410
+    },
+    {
+        "name": "pcccp",
+        "size": 258123
+    },
+    {
+        "name": "dbnsfp",
+        "size": 561714
+    },
+    {
+        "name": "mcgq",
+        "size": 206506
+    },
+    {
+        "name": "pcccp",
+        "size": 509501
+    },
+    {
+        "name": "crdt",
+        "size": 205710
+    },
+    {
+        "name": "bdw",
+        "size": 211300
+    },
+    {
+        "name": "dpl",
+        "size": 287744
+    },
+    {
+        "name": "jssnn",
+        "size": 9644
+    },
+    {
+        "name": "jssnn",
+        "size": 9644
+    },
+    {
+        "name": "jssnn",
+        "size": 655678
+    },
+    {
+        "name": "qpbqqj",
+        "size": 184229
+    },
+    {
+        "name": "jwtpgbnt",
+        "size": 209946
+    },
+    {
+        "name": "rmscmwtv",
+        "size": 397994
+    },
+    {
+        "name": "pcccp",
+        "size": 1323789
+    },
+    {
+        "name": "plpzbm",
+        "size": 32627
+    },
+    {
+        "name": "tgchdnc",
+        "size": 1865104
+    },
+    {
+        "name": "qpbqqj",
+        "size": 2070814
+    },
+    {
+        "name": "jssnn",
+        "size": 9216
+    },
+    {
+        "name": "lrnb",
+        "size": 165998
+    },
+    {
+        "name": "lczflft",
+        "size": 206041
+    },
+    {
+        "name": "zjbvwsnv",
+        "size": 214676
+    },
+    {
+        "name": "jdt",
+        "size": 290544
+    },
+    {
+        "name": "zbqwl",
+        "size": 260297
+    },
+    {
+        "name": "zjbvwsnv",
+        "size": 248709
+    },
+    {
+        "name": "gcc",
+        "size": 509006
+    },
+    {
+        "name": "rggpltr",
+        "size": 630460
+    },
+    {
+        "name": "zmh",
+        "size": 921004
+    },
+    {
+        "name": "zcsm",
+        "size": 1341721
+    },
+    {
+        "name": "pcccp",
+        "size": 3805097
+    },
+    {
+        "name": "snr",
+        "size": 154006
+    },
+    {
+        "name": "cqhb",
+        "size": 24712
+    },
+    {
+        "name": "jjw",
+        "size": 240052
+    },
+    {
+        "name": "gzqg",
+        "size": 240052
+    },
+    {
+        "name": "hfbfvn",
+        "size": 278190
+    },
+    {
+        "name": "srsphr",
+        "size": 42591
+    },
+    {
+        "name": "vgvdcvc",
+        "size": 120322
+    },
+    {
+        "name": "zjbvwsnv",
+        "size": 681155
+    },
+    {
+        "name": "zjbvwsnv",
+        "size": 1095088
+    },
+    {
+        "name": "jssnn",
+        "size": 1757549
+    },
+    {
+        "name": "rbvbhnvs",
+        "size": 86934
+    },
+    {
+        "name": "tzhslnv",
+        "size": 76278
+    },
+    {
+        "name": "bqjvst",
+        "size": 656471
+    },
+    {
+        "name": "mfd",
+        "size": 150230
+    },
+    {
+        "name": "zjbvwsnv",
+        "size": 227547
+    },
+    {
+        "name": "nhdrnthj",
+        "size": 619011
+    },
+    {
+        "name": "ttvp",
+        "size": 185994
+    },
+    {
+        "name": "qpbqqj",
+        "size": 568542
+    },
+    {
+        "name": "pcccp",
+        "size": 1348040
+    },
+    {
+        "name": "dbnsfp",
+        "size": 277961
+    },
+    {
+        "name": "mjpfnfns",
+        "size": 585423
+    },
+    {
+        "name": "nsdpfnhb",
+        "size": 281844
+    },
+    {
+        "name": "pmnssvd",
+        "size": 736532
+    },
+    {
+        "name": "smmb",
+        "size": 2309756
+    },
+    {
+        "name": "dhltrqqq",
+        "size": 4251066
+    },
+    {
+        "name": "fcqwgzp",
+        "size": 598758
+    },
+    {
+        "name": "wzdv",
+        "size": 26834
+    },
+    {
+        "name": "jvgpwrbs",
+        "size": 26834
+    },
+    {
+        "name": "hmrdghbr",
+        "size": 26834
+    },
+    {
+        "name": "jssnn",
+        "size": 90199
+    },
+    {
+        "name": "mgpql",
+        "size": 141852
+    },
+    {
+        "name": "src",
+        "size": 279996
+    },
+    {
+        "name": "zvdgc",
+        "size": 287127
+    },
+    {
+        "name": "qzzb",
+        "size": 708975
+    },
+    {
+        "name": "tmdlcv",
+        "size": 182587
+    },
+    {
+        "name": "zvfwq",
+        "size": 1185385
+    },
+    {
+        "name": "ccblfvl",
+        "size": 1663648
+    },
+    {
+        "name": "jssnn",
+        "size": 189316
+    },
+    {
+        "name": "qpbqqj",
+        "size": 167937
+    },
+    {
+        "name": "rpd",
+        "size": 8775
+    },
+    {
+        "name": "ptgn",
+        "size": 366028
+    },
+    {
+        "name": "pcccp",
+        "size": 51496
+    },
+    {
+        "name": "pzgpqp",
+        "size": 51496
+    },
+    {
+        "name": "prw",
+        "size": 1047549
+    },
+    {
+        "name": "vwdn",
+        "size": 236936
+    },
+    {
+        "name": "jfrnvts",
+        "size": 236936
+    },
+    {
+        "name": "qpbqqj",
+        "size": 254275
+    },
+    {
+        "name": "cvfr",
+        "size": 491211
+    },
+    {
+        "name": "jssnn",
+        "size": 131127
+    },
+    {
+        "name": "qpbqqj",
+        "size": 333087
+    },
+    {
+        "name": "cbpfvdp",
+        "size": 824298
+    },
+    {
+        "name": "gdl",
+        "size": 493589
+    },
+    {
+        "name": "hlmhtfz",
+        "size": 150152
+    },
+    {
+        "name": "wndpdj",
+        "size": 911358
+    },
+    {
+        "name": "tzqfn",
+        "size": 2974508
+    },
+    {
+        "name": "zjbvwsnv",
+        "size": 397019
+    },
+    {
+        "name": "jssnn",
+        "size": 6352371
+    },
+    {
+        "name": "pcccp",
+        "size": 245309
+    },
+    {
+        "name": "pcccp",
+        "size": 245309
+    },
+    {
+        "name": "ngqbdqp",
+        "size": 355
+    },
+    {
+        "name": "zjbvwsnv",
+        "size": 197270
+    },
+    {
+        "name": "dbnsfp",
+        "size": 223184
+    },
+    {
+        "name": "zzhjfmnr",
+        "size": 223184
+    },
+    {
+        "name": "cwq",
+        "size": 743418
+    },
+    {
+        "name": "zrntbl",
+        "size": 200844
+    },
+    {
+        "name": "dlgrsw",
+        "size": 608275
+    },
+    {
+        "name": "hmprt",
+        "size": 90249
+    },
+    {
+        "name": "qpbqqj",
+        "size": 290377
+    },
+    {
+        "name": "wnfzznfh",
+        "size": 147117
+    },
+    {
+        "name": "nwglfhpl",
+        "size": 2213289
+    },
+    {
+        "name": "rdzntr",
+        "size": 239028
+    },
+    {
+        "name": "msgwsnjq",
+        "size": 127761
+    },
+    {
+        "name": "cnjqsqj",
+        "size": 229407
+    },
+    {
+        "name": "pggz",
+        "size": 229407
+    },
+    {
+        "name": "rvccq",
+        "size": 897135
+    },
+    {
+        "name": "pcccp",
+        "size": 1136163
+    },
+    {
+        "name": "pdnj",
+        "size": 193069
+    },
+    {
+        "name": "sjstqlcb",
+        "size": 487386
+    },
+    {
+        "name": "zssln",
+        "size": 5859
+    },
+    {
+        "name": "bjhpdj",
+        "size": 10362562
+    },
+    {
+        "name": "dbnsfp",
+        "size": 271252
+    },
+    {
+        "name": "hppb",
+        "size": 341260
+    },
+    {
+        "name": "dqzwzbgm",
+        "size": 330121
+    },
+    {
+        "name": "nbfdtwzr",
+        "size": 200354
+    },
+    {
+        "name": "smvb",
+        "size": 163921
+    },
+    {
+        "name": "gnrztn",
+        "size": 939641
+    },
+    {
+        "name": "pzjnrwt",
+        "size": 590045
+    },
+    {
+        "name": "gmtpsgv",
+        "size": 164478
+    },
+    {
+        "name": "wvnwbpct",
+        "size": 657503
+    },
+    {
+        "name": "mcnzs",
+        "size": 3264545
+    },
+    {
+        "name": "cccjdcvb",
+        "size": 192965
+    },
+    {
+        "name": "gfns",
+        "size": 203999
+    },
+    {
+        "name": "zjbvwsnv",
+        "size": 26871
+    },
+    {
+        "name": "mgr",
+        "size": 26871
+    },
+    {
+        "name": "dwlhv",
+        "size": 373513
+    },
+    {
+        "name": "qpwh",
+        "size": 153353
+    },
+    {
+        "name": "snjfqg",
+        "size": 153353
+    },
+    {
+        "name": "njdgcbvm",
+        "size": 153353
+    },
+    {
+        "name": "vhzfzhrb",
+        "size": 153353
+    },
+    {
+        "name": "pqfht",
+        "size": 726456
+    },
+    {
+        "name": "jfbtl",
+        "size": 209199
+    },
+    {
+        "name": "pcccp",
+        "size": 209199
+    },
+    {
+        "name": "vzg",
+        "size": 209199
+    },
+    {
+        "name": "dbnsfp",
+        "size": 1701989
+    },
+    {
+        "name": "jphnn",
+        "size": 416849
+    },
+    {
+        "name": "zjbvwsnv",
+        "size": 189952
+    },
+    {
+        "name": "jssnn",
+        "size": 612655
+    },
+    {
+        "name": "ffqgpgfg",
+        "size": 608203
+    },
+    {
+        "name": "zjbvwsnv",
+        "size": 166393
+    },
+    {
+        "name": "mwpcqr",
+        "size": 166393
+    },
+    {
+        "name": "mpl",
+        "size": 1458481
+    },
+    {
+        "name": "rztc",
+        "size": 57788
+    },
+    {
+        "name": "znwp",
+        "size": 164627
+    },
+    {
+        "name": "npntsr",
+        "size": 5287722
+    },
+    {
+        "name": "jssnn",
+        "size": 746225
+    },
+    {
+        "name": "czm",
+        "size": 746225
+    },
+    {
+        "name": "qpbqqj",
+        "size": 688339
+    },
+    {
+        "name": "vdjs",
+        "size": 255921
+    },
+    {
+        "name": "zgz",
+        "size": 92804
+    },
+    {
+        "name": "fhhlbdlz",
+        "size": 1037064
+    },
+    {
+        "name": "gstjw",
+        "size": 151784
+    },
+    {
+        "name": "blztqf",
+        "size": 195097
+    },
+    {
+        "name": "dhpnr",
+        "size": 152837
+    },
+    {
+        "name": "dbnsfp",
+        "size": 152837
+    },
+    {
+        "name": "plgnh",
+        "size": 878213
+    },
+    {
+        "name": "qpbqqj",
+        "size": 1073310
+    },
+    {
+        "name": "stgb",
+        "size": 248436
+    },
+    {
+        "name": "dgrrl",
+        "size": 3256819
+    },
+    {
+        "name": "zjbvwsnv",
+        "size": 146807
+    },
+    {
+        "name": "jzhcqb",
+        "size": 146807
+    },
+    {
+        "name": "lctr",
+        "size": 768869
+    },
+    {
+        "name": "fvbmsc",
+        "size": 136838
+    },
+    {
+        "name": "gvnnz",
+        "size": 95498
+    },
+    {
+        "name": "vsztsjfh",
+        "size": 215479
+    },
+    {
+        "name": "rjmc",
+        "size": 689585
+    },
+    {
+        "name": "phggn",
+        "size": 2091912
+    },
+    {
+        "name": "zjbvwsnv",
+        "size": 5675719
+    },
+    {
+        "name": "lbrmb",
+        "size": 20385515
+    },
+    {
+        "name": "/",
+        "size": 20972432
+    }
+]
+-- checking size for root, starting at 0
+-- adding folder with name jmtrrrp with size 565305 totaling 565305
+-- adding folder with name jssnn with size 9644 totaling 574949
+-- adding folder with name lbrmb with size 20385515 totaling 20960464
+-- adding file with name pcccp with size 11968 totaling 20972432
+-- creating size obj
+{ name: '/', size: 20972432 }
+Anwser 1: 1086293
+[ { name: '/', size: 20972432 } ]

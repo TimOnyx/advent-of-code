@@ -7,33 +7,10 @@ import { CommandPartResult, handlePartCommand, handlePartCommandFactory } from '
 import { handleCommands } from '../../utils/handleCommands';
 import { getTotal } from './getTotal';
 
-const example = '2023/days/3/example.txt';
+const example = '2023/days/4/example.txt';
 const content = readFileSync(example).toString();
 
-export class FakeMap implements IMap {
-  symbol = '';
-  number = '';
-  setSymbolPosition(x: number, y: number) {
-    this.symbol = `${x}-${y}`
-  }
-  getSymbolPosition() {
-    return this.symbol
-  }
-  setNumberPosition(x: number, xEnd: number, y: number, value: number) {
-    this.number = `${x}-${y}-${value}`
-  }
-  getNumberPosition() {
-    return this.number
-  }
-  isPart() {
-    return true;
-  }
-  isGear() {
-    return false as const;
-  }
-}
-
-describe('[Day 3] part 1', () => {
+describe('[Day 4] part 1', () => {
 
   test('Reads example file', () => {
     expect(content).toBeDefined();    

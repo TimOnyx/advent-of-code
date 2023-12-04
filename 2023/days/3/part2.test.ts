@@ -12,7 +12,7 @@ const example = '2023/days/3/example.txt';
 const content = readFileSync(example).toString();
 
 describe('[Day 3] part 2', () => {
-  xdescribe('Handle a map command', () => {
+  describe('Handle a map command', () => {
     test('Numbers are added ', () => {
       const command = numberCommandFactory('123', 5, 8);
       let setNumber = '';
@@ -59,7 +59,7 @@ describe('[Day 3] part 2', () => {
     });
   });
 
-  xtest('Calculate total gears from example', () => {
+  test('Calculate total gears from example', () => {
     const lines = splitLines(content);
     const nestedCommands = generateEntries(lines, generateCommandsFromLine);
     const commands = flatMapEntries(nestedCommands);
@@ -84,14 +84,14 @@ describe('[Day 3] part 2', () => {
       expect(total).toEqual(expected);
     };
 
-    xtest('2 inputs on a line', () => {
+    test('2 inputs on a line', () => {
       const lines = [
         '5*4',
       ];
       testWithStringArray(lines, 20);
     })
 
-    xtest('2 inputs on top of each other', () => {
+    test('2 inputs on top of each other', () => {
       const lines = [
         '4',
         '*',
@@ -100,7 +100,7 @@ describe('[Day 3] part 2', () => {
       testWithStringArray(lines, 20);
     })
 
-    xtest('2 inputs on top', () => {
+    test('2 inputs on top', () => {
       const lines = [
         '5.4',
         '.*.',
@@ -108,7 +108,7 @@ describe('[Day 3] part 2', () => {
       testWithStringArray(lines, 20);
     })
 
-    xtest('2 inputs on bottom', () => {
+    test('2 inputs on bottom', () => {
       const lines = [
         '.*.',
         '5.4',
@@ -116,7 +116,7 @@ describe('[Day 3] part 2', () => {
       testWithStringArray(lines, 20);
     })
 
-    xtest('2 inputs diagonal, top left to bottom right', () => {
+    test('2 inputs diagonal, top left to bottom right', () => {
       const lines = [
         '5..',
         '.*.',
@@ -125,7 +125,7 @@ describe('[Day 3] part 2', () => {
       testWithStringArray(lines, 20);
     })
 
-    xtest('2 inputs diagonal, top right to bottom left', () => {
+    test('2 inputs diagonal, top right to bottom left', () => {
       const lines = [
         '..5',
         '.*.',
@@ -134,7 +134,7 @@ describe('[Day 3] part 2', () => {
       testWithStringArray(lines, 20);
     })
 
-    xtest('multiple gears', () => {
+    test('multiple gears', () => {
       const lines = [
         '..5.5..',
         '.*...*.',
@@ -143,7 +143,7 @@ describe('[Day 3] part 2', () => {
       testWithStringArray(lines, 40);
     })
 
-    xtest('ignores non gears', () => {
+    test('ignores non gears', () => {
       const lines = [
         '3...5..',
         '.*.4+*.',
@@ -152,7 +152,7 @@ describe('[Day 3] part 2', () => {
       testWithStringArray(lines, 0);
     })
 
-    xtest('Reddit hint 1', () => {
+    test('Reddit hint 1', () => {
       const lines = [
         '........',
         '.24..4..',
@@ -162,7 +162,7 @@ describe('[Day 3] part 2', () => {
       testWithStringArray(lines, 0);
     })
 
-    xtest('Reddit hint 2', () => {
+    test('Reddit hint 2', () => {
       const lines = [
         '12.......*..',
         '+.........34',
@@ -181,7 +181,7 @@ describe('[Day 3] part 2', () => {
       testWithStringArray(lines, 6756);
     })
 
-    xtest('Reddit hint 3', () => {
+    test('Reddit hint 3', () => {
       const lines = [
         '.......5......',
         '..7*..*.......',
@@ -192,7 +192,7 @@ describe('[Day 3] part 2', () => {
       testWithStringArray(lines, 442);
     })
 
-    xtest('Reddit hint 4', () => {
+    test('Reddit hint 4', () => {
       const lines = [
         '503+',
       ];

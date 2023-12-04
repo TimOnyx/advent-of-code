@@ -4,28 +4,17 @@ import { CommandResult, handleCommand } from './CommandHandler';
 import { generateEntries, splitLines } from '../../utils/fileProcessing';
 import { handleCommands } from '../../utils/handleCommands';
 import { getTotal } from './getTotal';
+import { generateCopies } from './generateCopies';
 
 const example = '2023/days/4/example.txt';
 const content = readFileSync(example).toString();
 
 describe('[Day 4] part 1', () => {
 
-  test('Reads example file', () => {
-    expect(content).toBeDefined();    
-  });
-
   describe('Generates commands from a line', () => {
-    const command = generateCommand('Card 3:  1 21 53 59 44 | 69 82 63 72 16 21 14  1');
-    test('Capture the winning numbers', () => {
-      expect(command.winningNumbers).toEqual([
-        1, 21, 53, 59, 44
-      ]);
-    });
-
-    test('Captures your numbers', () => {
-      expect(command.yourNumbers).toEqual([
-        69, 82, 63, 72, 16, 21, 14, 1
-      ]);
+    const command = generateCommand('Card 1: 41 48 83 86 17 | 83 86  6 31 17  9 48 53');
+    test('Capture the copied card numbers', () => {
+      expect(command.gameId).toBe(1);
     });
   })
 
@@ -35,19 +24,18 @@ describe('[Day 4] part 1', () => {
       winningNumbers: [1, 2, 3, 4, 5],
       yourNumbers: [1, 2, 3, 4, 5, 6, 7, 8],
     });
-    test('Winning numbers are counted', () => {
-      expect(result.winCount).toBe(5);
-    });
-    test('Points are calculated', () => {
-      expect(result.pointTotal).toBe(16);
+    test('Copied cards are found', () => {
+      expect(result.copiedCards).toEqual([
+        2, 3, 4, 5, 6
+      ]);
     });
   })
 
   test('Calculate total from example', () => {
     const lines = splitLines(content);
     const commands: Command[] = generateEntries(lines, generateCommand);
-    const results = handleCommands<Command, CommandResult>(commands, handleCommand);
-    const total = getTotal(results);
-    expect(total).toEqual(13);
+    const originalResults = handleCommands<Command, CommandResult>(commands, handleCommand);
+    const newResults = generateCopies(originalResults);
+    expect(newResults.length).toBe(30);
   });
 })

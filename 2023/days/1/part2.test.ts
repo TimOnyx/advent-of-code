@@ -12,4 +12,11 @@ describe('[Day 1] part 2', () => {
       lastDigit: 9,
     });
   })
+  test('Test for Lennert', () => {
+    const command = generateCommand('two1eightwo');
+    expect(command).toEqual({
+      firstDigit: 2,
+      lastDigit: 2,
+    });
+  })
 })
